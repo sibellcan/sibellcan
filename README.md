@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/0b64c38a-c6ce-4da7-8b81-1fb071632164" alt="Profil Resmi" width="100" height="140" align="center">  Merhaba, Ben Sibel Kıroğlu! 👋
+# Merhaba, Ben Sibel Kıroğlu! 👋
 
 Ben yazılım geliştiricisiyim, veri analizi ile ilgileniyorum.
 
