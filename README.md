@@ -1,4 +1,4 @@
-# Merhaba, Ben Sibel Kıroğlu! 👋
+# Merhaba, Ben Sibel Can! 👋
 
 Ben Bilgisayar Programcılığı bölümü mezunuyum. 7 yıl yazılım sektöründe C#, ASP.NET, SQL dillerini kullanarak yazılım geliştirici olarak görev yaptım. Son 1 yıldır veri analizi ile ilgili eğitimler alıyorum. Ve büyük datayla ilgilenmeyi seviyorum.
 
