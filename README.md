@@ -1,6 +1,6 @@
 # Merhaba, Ben Sibel Can! 👋
 
-Ben Bilgisayar Programcılığı bölümü mezunuyum. 7 yıl yazılım sektöründe C#, ASP.NET, SQL dillerini kullanarak yazılım geliştirici olarak görev yaptım. Son 1 yıldır veri analizi ile ilgili eğitimler alıyorum. Ve büyük datayla ilgilenmeyi seviyorum.
+Veri analizi alanında güçlü teknik altyapıya sahip, 7+ yıllık yazılım geçmişi olan bir veri analistiyim. Power BI, Excel, Python ve SQL konularında ileri düzey bilgiye sahibim. Gerçek veri setleriyle çalıştığım projelerim GitHub hesabımda yer almakta. Yeni teknolojilere hızlı adapte olur, analitik bakış açımı karar destek süreçlerine entegre edebilirim.
 
 ## Yetenekler 💻
 - Excel
